@@ -1,0 +1,19 @@
+{
+  "name": "web-scraping-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "csv-write-stream": "^2.0.0",
+    "dotenv": "^16.0.1",
+    "moment": "^2.29.3"
+  }
+}
